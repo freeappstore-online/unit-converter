@@ -8,7 +8,6 @@
     "dev": "pnpm --filter @unit-converter/web dev",
     "build": "pnpm --filter @unit-converter/web build",
     "preview": "pnpm --filter @unit-converter/web preview",
-    "typecheck": "pnpm --filter @unit-converter/web exec tsc -b",
-    "test": "pnpm --filter @unit-converter/web test"
+    "typecheck": "pnpm --filter @unit-converter/web exec tsc -b"
   }
 }
